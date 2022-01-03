@@ -1,0 +1,2 @@
+# SPAvue
+Single page application
